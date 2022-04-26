@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MyFeelings</string>
     <string name="c_mo_te_sientes_el_d_a_de_hoy">¿Cómo te sientes el día de hoy?\'</string>
     <string name="guardar">guardar</string>
     <string name="feliz">Feliz</string>
